@@ -6,4 +6,4 @@ This is a proof of concept for a mobile app that finds car parking in the local 
 
 To see the demo version of the UI
 
-![](screeenshot/carparkingrq.png)
+![](screeenshot/carparkingqr.png)
