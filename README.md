@@ -4,6 +4,6 @@ This is a proof of concept for a mobile app that finds car parking in the local 
 
 ![](screenshot/carparking.png)
 
-To see the demo version of the UI
+To see the demo version of the UI, please use QR scanner :)
 
 ![](https://github.com/lappang-cheung/carparkingfinder/blob/master/screenshot/carparkingqr.png)
